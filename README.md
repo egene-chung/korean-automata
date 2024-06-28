@@ -20,6 +20,7 @@
 
 
 <br><h3>4. 특수문자, 숫자, 빈칸이 input_string에 들어올 경우: epsilon으로 간주</h3>
+<img width="1346" alt="image" src="https://github.com/egene-chung/korean-automata/assets/123860864/16070830-b963-4834-b3ac-d10fd6904d30">
 
 <br>
 
